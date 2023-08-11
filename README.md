@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Consuella Moore</h1>
 <h3 align="center">A passionate full Stack Web Developer from San Antonio</h3>
-<img src="https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg"/>
+<p align="center">
+  <img src="https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg" alt="Banner" width="1000" height="200">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=consuellamoore123&label=Profile%20views&color=0e75b6&style=flat" alt="consuellamoore123" /> </p>
 
