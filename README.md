@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Consuella Moore</h1>
-<h3 align="center">A passionate full Stack Web Developer from San Antonio</h3>
+<h3 align="center">A passionate full Stack Web Developer from San Antonio with analytical skills and attention to detail, able to conduct thorough research and analysis of online transactions, ensuring compliance and recommending necessary changes. With a focus on achieving high production and quality scores, I have successfully handled sensitive matters with significant organizational impact. I am adept at collaborating with team members, delegating tasks, and providing assistance in resolving coverage discrepancies. Focused on applying my problem-solving abilities, attention to detail, and collaborative nature to create innovative solutions and contribute to the success of a dynamic team.
+
+</h3>
 <p align="center">
   <img src="https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg" alt="Banner" width="1000" height="200">
 </p>
